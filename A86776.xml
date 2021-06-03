@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition of many thousands of wives and matrons of the city of London, and other parts of this kingdome, for the cessation and finall conclusion of these civill wars, and for the restitution and revocation of their hvsbands, who have as just cause to complaine for the want of them, together with our children and bosome friends, as the virgins have for losing their sweet-hearts. Presented by divers gentlewomen of good credit, and citizens wives; to the considerations of both Houses, on Thursday, the second of February.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86776</idno><idno type="EEBO-CITATION">99872627</idno>
+  <idno type="VID">125071</idno>
+  <idno type="EEBO-PROQUEST">2240940820</idno>
+  
+            <idno type="STC">Wing H3475</idno>
+            <idno type="STC">Thomason E88_13</idno>
+            <idno type="STC">ESTC R4222</idno>
+            <idno type="PROQUEST">99872627</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99872627e"/>
+            <note>(EEBO-TCP ; phase 2, no. A86776)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125071)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 15:E88[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition of many thousands of wives and matrons of the city of London, and other parts of this kingdome, for the cessation and finall conclusion of these civill wars, and for the restitution and revocation of their hvsbands, who have as just cause to complaine for the want of them, together with our children and bosome friends, as the virgins have for losing their sweet-hearts. Presented by divers gentlewomen of good credit, and citizens wives; to the considerations of both Houses, on Thursday, the second of February.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>for Iohn Cookson,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Feb: 4 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125071:1"/>
+            <p>THE HUMBLE PETITION OF MANY THOVSANDS OF Wives and Matrons of the City of <hi>London,</hi> and other parts of this KINGDOME, For the Cessation and Finall Conclusion of these Civill Wars, And for the restitution and revocation of their <hi>HVSBANDS,</hi>
+            </p>
+            <p>Who have as just cause to complaine for the want of them, together with our children and bosome friends, as the Virgins have for losing their Sweet-hearts.</p>
+            <p>Presented by divers Gentlewomen of good credit, and Citizens Wives; To the consideration of both HOUSES, On <hi>Thursday,</hi> the second of <hi>February.</hi>
+            </p>
+            <q>Ecce jacent vidus membra sepulta thoro.</q>
+            <p>Printed at <hi>London</hi> for <hi>Iohn Cookson.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:125071:2"/>
+            <pb n="3" facs="tcp:125071:2"/>
+            <head>The humble Petition of many thou<g ref="char:EOLhyphen"/>sands of Wives and Matrons, of the City of <hi>London,</hi> and other parts of this Kingdome, for the cessation and finall conclusion of these Civill Warres.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T was the first act of God Almighties fa<g ref="char:EOLhyphen"/>vour, to our first parent in Pa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>adise, to ordaine him a helper meet for him; namely, a Wife; such as we are, to the number of many thousands, who doe hereby present this Petition for the recti<g ref="char:EOLhyphen"/>fying of our dreadfull and increasing grie<g ref="char:EOLhyphen"/>v<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nces. First, it is not unknowne to the whole kingdome of <hi>England,</hi> that Wives are the maine supporters of the strength and beauty thereof, that Wives are those who people and replenish the Common-wealth with Inhabitants; that Wives are the Mothers of the faithfull, and the producers of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ll good Subjects. As it is impossible, that fields alone with<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ut corne should bring forth fruit, or that corne should mul<g ref="char:EOLhyphen"/>tiply
+<pb n="4" facs="tcp:125071:3"/>without being cast into good ground: so it is impossible mankinde should be continued, or succession maintained without the help of Wives; who bring forth children when they have conceived them in sorrow with much paine and affli<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ion. It is therefore a great deale of j<gap reason="illegible" resp="#murp" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ice tha<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n our ow<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and <gap reason="illegible" resp="#murp" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>tressed <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> should be heard and our Petition regarded with an indulgent re<g ref="char:EOLhyphen"/>spect since we have so many tyes upon all those men who shall reade this our Petition, and whom it concernes equally with o<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lv<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>.</p>
+            <p>First we are not ignorant that there hath been a great many malicious and ungracious reports cast upon us Wo<g ref="char:EOLhyphen"/>men, as that we should weare the breeches, that our tongues are perpetuall larums to disturbe the peace and quietnesse of their rest, that we are cankers in their Estates, consuming them more in new fashions and fooleries, then would main<g ref="char:EOLhyphen"/>taine an Army against the Malignants; that besides, the Wives of the City are terribly given to the making of mon<g ref="char:EOLhyphen"/>sters, or converting our Husbands into such, by furnishing their fore-heads with large and beautifull hornes; all which aspersions we returne upon the vile and scandalous Authors, who in the height of their Wine have branded us with these ignominious calumnies, because we would not permit them to lime their twigs at our Plum-trees, nor to inoculate our stocks with their grafts: and attesting against all such mis<g ref="char:EOLhyphen"/>reports, as unprejudiciall to our cause, or any way impeach<g ref="char:EOLhyphen"/>ing this our Petition, which out of the anguish and bitter<g ref="char:EOLhyphen"/>nesse of our hearts we are forced to deliver. We the Wives of all sorts, ages and conditions, from the Merchants Wife of fifteen in silke Mochado, to the Apple-wife of fourescore in Canvas; as Ale-wives, Oyster-wives, Fish-wives, Tripe-wives, in all humility shewing the greatnesse of our dolors and sufferings, occasioned by the lament<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble and lasting con<g ref="char:EOLhyphen"/>tinuance of these intestine civill wars, where there hath been more proper men slaine (which grieves us even beneath the
+<pb n="5" facs="tcp:125071:3"/>bottomes of our hearts) then would have done a hundred of <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> good turnes, and such turnes as would have served our <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>es indeed, and to some purpose, then having been more <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ns bloud shed in these combates and contentions, then there is left in all our bodies, which is certainly a point of great inhumanity and barbarousnesse. And whereas before the beginning of these wars, each of us good Wives, either by the due benevolence of our Husbands, or the charitable as<g ref="char:EOLhyphen"/>sistance of our friends, whom we respected in the nature of Husbands, could every year<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for the most part bring forth <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>it in due season, without lying idle like Fallow and until<g ref="char:EOLhyphen"/>led fields, now heaven have mercy upon us, we walk desolate like Widdowes, with our bellies as flat as Flounders, and empty as crackt-nuts that have lost their kernels: Your com<g ref="char:EOLhyphen"/>mon harlots undoing us in the wayes of copulation and pr<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>creation, they in this dearth of mans flesh having some cu<g ref="char:EOLhyphen"/>stomers and helpers at dead lifts, while we poore soules wander like solitary Turtles without mates; not one man among a hundred, since the departure of the Courtiers and Cavaliers, that in this City hath so much honesty as to aske a married woman the question, or offer his body to her ser<g ref="char:EOLhyphen"/>vice; and if this be not a lamentable case my Masters, you who have Wives, and so know what belongs to women, be impartiall and just Judges. All flesh is fraile we know, and we women are the weaker vessels, and so have the fr<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iler flesh, and <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re more subject to our failings then men. And is <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> not a pittifull case, able to make a mans bowels yearne with compassion, that women should out of their frailty fall, and have no man to take them up, except we should be be<g ref="char:EOLhyphen"/>holding to those who have the palsie in all their joynts, de<g ref="char:EOLhyphen"/>crepid old men, that cannot lift up any part about us, nor stand at all to elevate our dir<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctions for paines and aches: while we in the meane time tyre our soules, and consume the flesh of our bodies with pinings and mentall concepti<g ref="char:EOLhyphen"/>ons; such as may call to our remembrance onely to trouble
+<pb n="6" facs="tcp:125071:4"/>our fancies, the past banquets we used daily and nightly to taste, when as they say we eat sweet meats with spoones and rioted in dainties. But now, woe worth the time I <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ne<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the beginning and continuance of these warres, we have been held to hard meat, sca<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce getting a morsel to satisfie the gripings and hunger of our bellies in three of foure dayes▪ nay, not in a weeke sometimes, and that we are faine to steale or borrow from our neighbours, in an ill houre be it spoken, to such a dearth of men are we reduced, our Husbands who according to the Lawes of the Jewes, were bound to give us due bene volence, being engaged and imbroiled in these warres, shedding their blouds, and maiming their bodies, to the losse of divers of the best of their members in the hot service, as many of us whose Husbands are returned lame and impotent can speake it by wofull experience.</p>
+            <p>And which is a far greater affliction, besides the losse of our Husbands (whom we would have spared with all ou<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> hearts, so they had been left us) we are deprived of our deare and delicious friends, who used with such pleasure to solace and recreate our bodies at Tavernes, and other places, paying for our going in to playes, and installing us in triumph in the halfe crowne boxes, though we often paid for it our selves, borrowing of our Husbands by ingrosse to supply our friends, who paid our wares and commodities againe by retaile: By which, though our Husbands were losers, we were sure to be good gainers. And these good Gentlemen, our noble friends, are taken away by the imployments of those civill warres, and in our places supply the necessities of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>armers daughters, and Inne-keepers, and Parsons wives, that make them lucky to horse-s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h. In what a miserable estate and condition are we Wives left then, being not onely deprived of the bodily consolation of our Husbands, but also of our friends, who in stead of dauncing the shaking of the sheets, are dauncing to the musicke of the Drums, endangering hou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ely those precious and delectable members so deare to
+<pb n="7" facs="tcp:125071:4"/>us Wives. Besides this misery and defect, the want of tra<g ref="char:EOLhyphen"/>ding lamentably afflicts us Oyster-wives, Apple-wives, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ipe-wives, nay, the very Ale-wives, that had wont so <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ommonly, and to every Chapman and Passenger to sell off <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>heir wares, having now no vent for their commodities, un<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> they will put them off upon trust, and score up all their <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ere, Ale, and Cakes: so that Wives of all sorts and occupa<g ref="char:EOLhyphen"/>tions have reason to lament and complaine of the continu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of these warres, which have brought them so many and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>illing afflictions, which makes all the parts and every <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>icle of our bodies tremble with feare, and amazement <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ehold the still increasing to<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rent of our miseries; which <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ither tongue can expresse, no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pen dec<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pher; for we are <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> onely in daily jealousies of ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Husbands not returning <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> us, but also of their being slaine in the warres, whereby we <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> made unable of having hopes to propagate or fruc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>isie <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>he earth with children lawfully begotten, and so posterity <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ust cease, and the City, Towne and Countrey be left deso<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>: Besides, we are fearefull if we should lose these Hus<g ref="char:EOLhyphen"/>bands, that we shall not suddenly get new ones; for though we care not much for them, yet we know, according to the old Proverbe, <hi>that seldome comes a better,</hi> and therefore we <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ld gladly rest our selves contented with these we have, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>her wishing to wear<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our old clothes then to goe starke <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>. But furely this taking away of our friends, whom <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> set in the first place and our Husbands from us, was a just <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>gement of Heaven upon us for our sinnes and iniquities; <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> before, when each of us had a loving and kinde husband <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>r laid leg over woman, we were not contented with <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>m, but still desired change, divers of us, having a friend, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>wo or three in a corner besides, and so hath hapned to us as <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> covetous wretches, who striving to increase their state, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> all they had before, we poore distressed Wives this cold <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ther lying alone in our beds, without the warme touches <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d embraces of any man to comfort us.</p>
+            <pb n="8" facs="tcp:125071:5"/>
+            <p>In consideration of all which grievances and oppressio<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> which fall daily and nightly upon us, we the good wives a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> bad wives, chaste and unchaste, Scolds and Turtle-dov<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> being to the number of at least three millions of bodi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> throughout the whole Kingdome, most humbly intreat, a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> with teares in our eyes beseech that an end may be s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dd<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> put to these bloudy and desperate civill warres, wherein<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> much bloud hath been shed, to the terrour of all Christi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> people, especially of us weake and tender-hearted wom<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> that we may no longer lye alone in our b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ds, but have<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> husbands restored to us, to the solace and consolation of<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> bodies and soules, that we may againe bring forth child<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> every yeare to increase the number of the Kings liege peop<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and faithfull Subjects. And we as in all d<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y bound<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ever pray, &amp;c.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
